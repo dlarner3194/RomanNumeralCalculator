@@ -1,0 +1,11 @@
+C:\Users\Daniel Larner\source\repos\RomanNumeralCalculator\romannumercalculator.business\romannumercalculator.business\bin\Debug\netcoreapp2.0\romannumercalculator.business.deps.json
+C:\Users\Daniel Larner\source\repos\RomanNumeralCalculator\romannumercalculator.business\romannumercalculator.business\bin\Debug\netcoreapp2.0\romannumercalculator.business.runtimeconfig.json
+C:\Users\Daniel Larner\source\repos\RomanNumeralCalculator\romannumercalculator.business\romannumercalculator.business\bin\Debug\netcoreapp2.0\romannumercalculator.business.runtimeconfig.dev.json
+C:\Users\Daniel Larner\source\repos\RomanNumeralCalculator\romannumercalculator.business\romannumercalculator.business\bin\Debug\netcoreapp2.0\romannumercalculator.business.dll
+C:\Users\Daniel Larner\source\repos\RomanNumeralCalculator\romannumercalculator.business\romannumercalculator.business\bin\Debug\netcoreapp2.0\romannumercalculator.business.pdb
+C:\Users\Daniel Larner\source\repos\RomanNumeralCalculator\romannumercalculator.business\romannumercalculator.business\obj\Debug\netcoreapp2.0\romannumercalculator.business.csprojResolveAssemblyReference.cache
+C:\Users\Daniel Larner\source\repos\RomanNumeralCalculator\romannumercalculator.business\romannumercalculator.business\obj\Debug\netcoreapp2.0\romannumercalculator.business.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Larner\source\repos\RomanNumeralCalculator\romannumercalculator.business\romannumercalculator.business\obj\Debug\netcoreapp2.0\romannumercalculator.business.AssemblyInfoInputs.cache
+C:\Users\Daniel Larner\source\repos\RomanNumeralCalculator\romannumercalculator.business\romannumercalculator.business\obj\Debug\netcoreapp2.0\romannumercalculator.business.AssemblyInfo.cs
+C:\Users\Daniel Larner\source\repos\RomanNumeralCalculator\romannumercalculator.business\romannumercalculator.business\obj\Debug\netcoreapp2.0\romannumercalculator.business.dll
+C:\Users\Daniel Larner\source\repos\RomanNumeralCalculator\romannumercalculator.business\romannumercalculator.business\obj\Debug\netcoreapp2.0\romannumercalculator.business.pdb
